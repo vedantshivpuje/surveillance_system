@@ -1,0 +1,7 @@
+ultralytics>=8.1.0
+opencv-python
+torch
+torchvision
+streamlit>=1.31.0
+numpy<2.0.0
+Pillow
